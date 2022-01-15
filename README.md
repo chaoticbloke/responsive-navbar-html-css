@@ -18,5 +18,5 @@
 #### An inline element does not start on a new line.
 #### An inline element only takes up as much width as necessary.
 
-> &lt;span&gt;hi i am span. dont start with new line nor take full width &lg; /span&gt;
+> &lt;span&gt;hi i am span. dont start with new line nor take full width &lg;/span&gt;
 
