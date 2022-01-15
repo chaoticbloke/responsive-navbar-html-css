@@ -20,3 +20,14 @@
 
 > &lt;span&gt;hi i am span. dont start with new line nor take full width &lt;/span&gt;
 
+
+## The display: inline-block 
+Compared to display: inline, the major difference is that display: inline-block allows to set a width and height on the element.
+
+## with display: inline-block
+the top and bottom margins/paddings are respected, but with display: inline they are not.
+
+## Compared to display: block,
+the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements.
+
+
