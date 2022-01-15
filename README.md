@@ -9,7 +9,7 @@
 #### A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
 #### A block level element has a top and a bottom margin, whereas an inline element does not.
 
-> "<div>hello. starts new line . takes full width available</div>"
+> lt; div gt; hello. starts new line . takes full width available lt; /div gt;"
 
 
 ## Inline Elements.
